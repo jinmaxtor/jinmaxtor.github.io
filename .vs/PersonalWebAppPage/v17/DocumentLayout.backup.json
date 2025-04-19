@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\main.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\main.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\nav.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\nav.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\aside.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\aside.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\layout\\sections\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\layout\\sections\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|c:\\users\\jin_m\\onedrive\\proyectos\\software\\dotnet\\personalwebapppage\\personalwebapppage\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1EB479-3D22-4691-99F2-076F7F7EB68C}|PersonalWebAppPage\\PersonalWebAppPage.csproj|solutionrelative:personalwebapppage\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.razor.cs",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Main.razor.cs",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Main.razor.cs",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Main.razor.cs",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Main.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:08:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Pages\\Counter.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:52:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nav.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Nav.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Nav.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Nav.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Nav.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:48:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aside.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Aside.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Aside.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Aside.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Aside.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:48:30.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "PersonalWebAppPage\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T00:32:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Header.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Header.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Header.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Header.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:26:40.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Pages\\Home.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:11:23.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Main.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Main.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Main.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Main.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:05:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:05:18.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\App.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\App.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\App.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:11:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Program.cs",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Program.cs",
+              "RelativeToolTip": "PersonalWebAppPage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:42:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\wwwroot\\index.html",
+              "RelativeToolTip": "PersonalWebAppPage\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T20:42:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Footer.razor",
+              "RelativeDocumentMoniker": "PersonalWebAppPage\\Layout\\Sections\\Footer.razor",
+              "ToolTip": "C:\\Users\\jin_m\\OneDrive\\Proyectos\\Software\\DotNet\\PersonalWebAppPage\\PersonalWebAppPage\\Layout\\Sections\\Footer.razor",
+              "RelativeToolTip": "PersonalWebAppPage\\Layout\\Sections\\Footer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:18:14.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

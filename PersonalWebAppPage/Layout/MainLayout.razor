@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Components.Sections
+@using PersonalWebAppPage.Layout.Sections
+@using Section = PersonalWebAppPage.Shared.Enums.LayoutSection;
+@inherits LayoutComponentBase
+
+<HeadContent>
+    <SectionOutlet SectionId="Section.Meta" />
+    <SectionOutlet SectionId="Section.Style" />
+    <script>
+        console.debug("Cargando layout principal....");
+    </script>
+</HeadContent>
+
+<Header />
+
+<Main>
+    @Body
+</Main>
+
+<Footer />
+
+
+<script>
+    console.debug("Cargado layout bla bla");
+</script>

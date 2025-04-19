@@ -1,0 +1,22 @@
+header {
+    z-index: 1;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-left: 280px;
+}
+
+@media (max-width: 991.98px) {
+    footer {
+        padding-left: 0;
+    }
+}
+
+.main-wrapper .container {
+    max-width: unset;
+}

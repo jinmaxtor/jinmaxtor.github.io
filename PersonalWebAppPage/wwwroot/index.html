@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es-bo">
+
+<head>
+    <title>PersonalWebAppPage</title>
+
+    <base href="/" />
+
+    <!-- Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Pagina personal de desarrollo">
+    <meta name="author" content="Yimmy Quispe Yujra">
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+
+    <link href="css/theme-1.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link href="PersonalWebAppPage.styles.css" rel="stylesheet" />
+
+    <link href="manifest.webmanifest" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+</head>
+
+<body>
+    <app></app>
+    
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <script type="module" src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

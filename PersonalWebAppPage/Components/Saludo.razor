@@ -1,0 +1,16 @@
+﻿<h3 id="idSaludo">Saludo: @Mensaje</h3>
+
+<script>
+    console.debug("Cargando componente saludo...");
+    const idSaludo = document.getElementById("idSaludo");
+    if (idSaludo) {
+        idSaludo.innerText += " Hola desde el componente Saludo";
+    } else {
+        console.error("No se encontró el elemento con id 'idSaludo'");
+    }
+</script>
+
+@code {
+    [Parameter]
+    public string Mensaje { get; set; } = "Defecto";
+}
